@@ -1,4 +1,4 @@
-### Hi there 👋 ... code is like wine, best enjoyed with friends!  I'm excited to start unthawing this account!
+### Hi there 👋 ... I'm excited to start unthawing this account!
 
 <!--
 **cambricorp/cambricorp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
